@@ -54,3 +54,23 @@ ___________.__  .__       .__     __    _________ .__       ___.
 
 Process finished with exit code 0
 ```
+
+
+#### Program Requiremments
+```
+This program to run successfully requires API Keys and Communication mediums.
+
+APIs Used for this program:
+
+Google Sheet Data Management - https://sheety.co/
+
+Amadeus Flight Search API (Free Signup, Credit Card not required) - https://developers.amadeus.com/
+
+Twilio Messaging (SMS or WhatsApp) API - https://www.twilio.com/docs/messaging/quickstart/python
+
+Google mail address with apppassword key to send customer mails. (2FA Enabled)
+
+A mobile number to send messages to for testing.
+
+Configure the .env file in the home directory with your API keys and communication mediums like EMail Address and Mobile Number.
+```
