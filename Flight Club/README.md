@@ -1,3 +1,4 @@
+### Program Final Output
 ```
                                ._                             
                               |* ;                            
@@ -55,8 +56,9 @@ ___________.__  .__       .__     __    _________ .__       ___.
 Process finished with exit code 0
 ```
 
+---
 
-#### Program Requiremments
+#### Program Requirements
 ```
 This program to run successfully requires API Keys and Communication mediums.
 
